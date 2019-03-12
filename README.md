@@ -1,4 +1,4 @@
-# Steam_Game_Recommendation_Analyse
+# Steam Game Recommendation Analyse
 A simple game recommendation tool for Steam purchase record, based on Association Analyse in Data Mining.
 Designed for Data Mining Bonus Assignment
 
